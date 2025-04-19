@@ -17,7 +17,7 @@ This is a complete machine learning project focused on predicting stock prices u
 - [x] Data Cleaning & Preprocessing
 - [x] Feature Engineering
 - [ ] ARIMA Implementation
-- [ ] LSTM Implementation
+- [x] LSTM Implementation
 - [ ] Model Evaluation
 - [ ] Visualization of Results
 - [ ] Project Write-up and Deployment
